@@ -5,7 +5,7 @@
 // @description  Overlay-like tool for pixelzone.io
 // @author       meatie, modified by Yoldaş Pisicik. URL adaptive by Edward Scorpio & MDOwlman
 // @match        https://pixelzone.io/*
-// @homepage     https://github.com/enixbr/pz-minimap
+// @homepage     https://github.com/EdwardScorpio/PixelZone-2x2-PBteam-map
 // @downloadURL  https://raw.githubusercontent.com/enixbr/pz-minimap/master/minimap.js
 // @grant        none
 // @run-at       document-end
